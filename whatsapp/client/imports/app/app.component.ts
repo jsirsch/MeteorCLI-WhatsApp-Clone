@@ -4,6 +4,7 @@ import { StatusBar, Splashscreen } from 'ionic-native';
 import template from "./app.html";
 
 @Component({
+  selector: 'my-app',
   template
 })
 export class MyApp {
